@@ -1,0 +1,53 @@
+Controller command:
+1) making a controller
+php artisan make:controller "controller name"
+
+2)RUN: php artisan serve
+
+3) Create model and migration 
+php artisan make:model name -m
+php artisan migrate
+php artisan migrate:refresh
+php artisan migrate:status
+php artisan migrate:reset 
+php artisan migrate:rollback
+
+manual migrate
+php artisan migrate --path=database/migrations/2023_08_06_200708_create_temp_products_table.php
+
+FOR EACH PAGE:
+1) view- .blad.php
+2) make controller
+3) make function in controller
+Databse:
+i)add "use model" to controller page if need to connect database but first-
+ii) database create : migration
+iii) create model to connect the migrated table
+--
+4)route to controller's function web.php 
+5) + add use location of controller in top of web.php
+
+
+Controller- web.php route- 
+controller- view return in controller
+model-controller
+always use controller on route before routing
+
+php artisan make:middleware MyNewMiddleware
+
+
+Github:
+git add .
+git commit -m " "
+git push -u origin "Branch1"
+git push -f origin main
+
+git pull origin "Merge"
+
+
+git remote add origin https://github.com/shihabmuhtasim/
+
+
+php artisan cache:clear
+php artisan route:clear
+
