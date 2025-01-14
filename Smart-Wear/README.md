@@ -1,13 +1,9 @@
 # SmartWear - A cloathing Rental website
-
-It was a project for System Design Course so along with me two more people worked on this project.
+Using Laravel as the framework this Project delivers an E-commerce rental website; a smart way to rent cloths for user and vendor business .It was a project for System Design Course so along with me two more people worked on this project.
 [Sartaj Emon Prattoy](https://github.com/SartajPrattoy)
-- [Shihab and Nusaiba]
+
 # Smart-Wear![logo](https://github.com/SartajPrattoy/Smart-Wear/assets/68439215/45a410b2-2225-4c0c-910e-71d3040bcfdc)
 
-
-using Laravel as the framework this Project delivers an E-commerce rental website; a smart way to rent cloths for user and vendor business
-# SmartWear - A cloathing Rental website
 # Project Details
 
     -[Framework: Laravel]
