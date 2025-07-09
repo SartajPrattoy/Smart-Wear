@@ -5,7 +5,7 @@ It was a project for System Design Course CSE471. Along with me, two more people
 
 
 
-# Smart-Wear![logo](https://github.com/SartajPrattoy/Smart-Wear/assets/68439215/45a410b2-2225-4c0c-910e-71d3040bcfdc)
+# SmartWear![logo](https://github.com/SartajPrattoy/SmartWear/assets/68439215/45a410b2-2225-4c0c-910e-71d3040bcfdc)
 
 # Project Details
 
